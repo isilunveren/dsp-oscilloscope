@@ -12,8 +12,9 @@ app/
 │   ├── signal_denoiser.py     AI tabanlı gürültü giderme (DeepFilterNet3)
 │   ├── trigger_detector.py    Osiloskop trigger mekanizması
 │   ├── peak_detector.py       Wavelet tabanlı pik tespiti
+│   ├── function_generator.py  İstenen frekansta sinüs dalgası üretir
 │   └── event_detector.py      Piklerin olaylara gruplanması
-│
+│   
 ├── wav_recorder.py          WAV dosyasına kayıt
 │
 ├── llm/                     Doğal dil ile cihaz kontrolü
