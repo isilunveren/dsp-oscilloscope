@@ -1,0 +1,9 @@
+numpy
+scipy
+pyqtgraph
+PySide6
+torch
+openai
+certifi
+pyserial
+deepfilternet
